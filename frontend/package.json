@@ -1,0 +1,15 @@
+{
+  "name": "Shoping",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Shoping card code",
+  "repository": "https://github.com/annastazi09/shoping-card",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+  }
+}
